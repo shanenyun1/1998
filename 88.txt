@@ -73,43 +73,43 @@
     },
     {
       "key": "csp_花猫",
-      "name": "🅱️花猫影视|T追剧",
+      "name": "花猫影视|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4513/JS/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+      "ext": "./js/花猫影视.json"
     },
     {
       "key": "csp_亿视",
-      "name": "🅱️亿视影院|T追剧",
+      "name": "亿视影院|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4513/JS/%E4%BA%BF%E8%A7%86%E5%BD%B1%E9%99%A2.json"
+      "ext": "./js/亿视影院.json"
     },
     {
       "key": "csp_七月",
-      "name": "🅱️七月影视|T追剧",
+      "name": "七月影视|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4513/JS/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json"
+      "ext": "./js/七月影视.json"
     },
     {
       "key": "csp_日后",
-      "name": "🅱️日后影视|T追剧",
+      "name": "日后影视|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/4513/JS/348%E5%BD%B1%E8%A7%86.json"
+      "ext": "七月影视.json"
     },
     {
       "key": "csp_圣城",
