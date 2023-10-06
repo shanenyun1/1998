@@ -18,7 +18,7 @@
       "key":"drpy_js",
       "name":"打开┃影视",
       "type":3,
-      "api":".https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js",
+      "api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js",
       "ext":"./js/奇优影院.js"
     },
     {
