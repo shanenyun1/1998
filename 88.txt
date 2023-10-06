@@ -22,22 +22,16 @@
       "ext":"./js/奇优影院.js"
     },
     {
-              "key": "csp_007",
-                    "name": "🅱️凌漆影视|T追剧",
-                          "type": 3,
-                                "api": "csp_XBPQ",
-                                      "searchable": 1,
-                                            "quickSearch": 1,
-                                                  "filterable": 1,
-                                                        "ext": "./js/007影视.json"
+      "key": "csp_007",
+      "name": "凌漆影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/007影视.json"
     },
-    {
-                    "key": "drpy_js_007影视",
-                                "name": "007影视[js]",
-                                            "type": 3,
-                                                        "api": "https://cn.kstore.space/download/4513/JS/drpy2.min.js",
-                                                                    "ext": "https://cn.kstore.space/download/4513/JS/007%E5%BD%B1%E8%A7%86.js"
-    },
+
     {
       "key": "csp_77",
       "name": "七七┃App",
@@ -48,14 +42,14 @@
       "changeable": 1
     },
     {
-              "key": "蚂蚁",
-                    "name": "码上👓饭-🐜蚂蚁┃直连",
-                          "type": 3,
-                                "api": "csp_Mayiys",
-                                      "searchable": 1,
-                                            "quickSearch": 1,
-                                                  "filterable": 0,
-                                                        "ext": "http://rzys.xyz"
+      "key": "蚂蚁",
+      "name": "蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz"
     },
     {
       "key": "csp_乐猪",
