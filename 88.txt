@@ -5,7 +5,8 @@
       {
 	   "name": "live",
 	   "type": 0,
-	   "url": "https://cn.kstore.space/download/4513/JS/tvlive.txt",
+	   "url": "./js/tvlive.txt 
+       ",
 	   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
        "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
