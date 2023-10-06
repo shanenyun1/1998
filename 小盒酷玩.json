@@ -12,6 +12,15 @@
 "sites":[
 
 {"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+"key": "csp_FanYY",
+      "name": "玩偶┃云盘",
+            "type": 3,
+                  "api": "csp_WoGG",
+                        "searchable": 1,
+                              "quickSearch": 1,
+                                    "filterable": 1,
+                                          "ext": "http://127.0.0.1:9978/file/cainisi/token.txt"
+},
 
 {"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
 
