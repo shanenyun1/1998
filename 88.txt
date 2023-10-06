@@ -42,14 +42,14 @@
       "changeable": 1
     },
     {
-      "key": "蚂蚁",
-      "name": "蚂蚁┃直连",
-      "type": 3,
-      "api": "csp_Mayiys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://rzys.xyz"
+              "key": "蚂蚁",
+                    "name": "蚂蚁┃直连",
+                          "type": 3,
+                                "api": "csp_Mayiys",
+                                      "searchable": 1,
+                                            "quickSearch": 1,   
+                                                  "filterable": 0,
+                                                        "ext": "http://rzys.xyz"
     },
     {
       "key": "csp_乐猪",
