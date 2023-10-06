@@ -42,14 +42,14 @@
       "changeable": 1
     },
     {
-              "key": "蚂蚁",
-                    "name": "蚂蚁┃直连",
-                          "type": 3,
-                                "api": "csp_Mayiys",
-                                      "searchable": 1,
-                                            "quickSearch": 1,   
-                                                  "filterable": 0,
-                                                        "ext": "http://rzys.xyz"
+     "key": "蚂蚁",
+      "name": "蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_Mayiys",
+       "searchable": 1,
+       "quickSearch": 1,   
+       "filterable": 0,
+       "ext": "http://rzys.xyz"
     },
     {
       "key": "csp_乐猪",
@@ -69,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/农民影视.js"
+      "ext": "./js/农民影视.json"
     },
     {
       "key": "csp_花猫",
