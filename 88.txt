@@ -33,10 +33,31 @@
       "ext": "http://www.aueteys.com/"
     },
     {
+                    "key": "七夜",
+                                "name": "😾七夜┃搜索",
+                                            "type": 3,
+                                                        "api": "csp_Dovx",
+                                                                    "searchable": 1,
+                                                                                "quickSearch": 1,
+                                                                                            "changeable": 0,
+                                                                                                        "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+    },
+    {
+                    "key": "贱贱",
+                                "name": "🐭贱贱┃p2p",
+                                            "type": 3,
+                                                        "searchable": 1,
+                                                                    "quickSearch": 1,
+                                                                                "changeable": 1,
+                                                                                            "playerType": "1",
+                                                                                                        "api": "./js/drpy1.min.js",
+                                                                                                                    "ext": "./js/jp.js"
+    },
+    {
      "key": "Mino",
      "name": "Mino┃4K资源",
      "type": 3,
-      "api": "csp_Appto",
+      "api": "jcsp_Appto",
        "searchable": 1,
        "quickSearch": 1,
       "changeable": 1,
