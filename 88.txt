@@ -23,6 +23,28 @@
       "ext":"./js/奇优影院.js"
     },
     {
+                    "key": "Auete",
+                                "name": "🏝奥特┃直连",
+                                            "type": 3,
+                                                        "api": "csp_Auete",
+                                                                    "searchable": 1,
+                                                                                "quickSearch": 1,
+                                                                                            "changeable": 1,
+                                                                                                        "ext": "http://www.aueteys.com/"
+    },
+    {
+                    "key": "探探",
+                                "name": "🏵影探┃App",
+                                            "type": 3,
+                                                        "playerType": "1",
+                                                                    "api": "csp_YTVIP",
+                                                                                "searchable": 1,
+                                                                                            "quickSearch": 1,
+                                                                                                        "changeable": 1,
+                                                                                                                    "timeout": 30,
+                                                                                                                                "ext": "vip.lyyytv.cn"
+    },
+    {
       "key": "csp_007",
       "name": "凌漆|追剧",
       "type": 3,
