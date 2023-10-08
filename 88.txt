@@ -587,7 +587,7 @@
     {
       "name": "小七",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+      "url": ""
     },
     {
       "name": "小七",
