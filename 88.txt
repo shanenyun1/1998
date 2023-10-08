@@ -585,14 +585,9 @@
       "url": "Parallel"
     },
     {
-      "name": "小七",
+      "name": "小鱼",
       "type": 1,
-      "url": ""
-    },
-    {
-      "name": "小七",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
     },
     {
       "name": "左岸",
@@ -600,19 +595,19 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
     {
-      "name": "777",
+      "name": "战狼",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://jx.zhanlangbu.com/?url="
     },
     {
       "name": "莫问",
       "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "jsonplayer",
+      "name": "范特",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
       "name": "虾米",
@@ -620,9 +615,9 @@
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "虾米",
+      "name": "全部",
       "type": 0,
-      "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="
+      "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
     {
       "name": "虾米",
@@ -633,11 +628,6 @@
       "name": "爱酷",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "365",
-      "type": 0,
-      "url": "https://chaxun.truechat365.com/?url="
     },
     {
       "name": "夜幕",
