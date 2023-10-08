@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/ymz.jar;md5;10eb32e7f059984cba18ee3a8b764470",
+  "spider":"./jar/spider.jar;md5;10eb32e7f059984cba18ee3a8b764470",
   "wallpaper": "",
   "lives": [
       {
