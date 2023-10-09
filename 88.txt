@@ -22,16 +22,7 @@
       "api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js",
       "ext":"./js/奇优影院.js"
     },
-    {
-      "key": "js_czsapp",
-      "name": "🏭️┃厂长┃资源",
-      "type": 3,
-      "api": "./js/apiv15drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterabljs: 1,
-       "ext": "./js/czspp.js"
-    },
+
     {
      "key": "Auete",
      "name": "奥特┃直连",
