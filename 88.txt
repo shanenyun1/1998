@@ -47,7 +47,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/czsp.js"
+            "ext": "./js/czspp.js"
         },		
      {
       "key":"drpy_js",
