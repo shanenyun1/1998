@@ -83,6 +83,7 @@
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
+    {"key":"csp_Czsapp","name":"🏭厂长影视｜追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
     {
        "key": "探探",
        "name": "影探┃4K
