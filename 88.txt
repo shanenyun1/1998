@@ -30,6 +30,7 @@
                                                                                                                                                                                           "分类url": "https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
                                                                       }
       },
+      {
       
             "key": "js_czsapp",
             "name": "🏭️┃厂长┃资源",
