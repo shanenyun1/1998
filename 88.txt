@@ -83,7 +83,6 @@
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
-    {"key":"csp_Czsapp","name":"🏭厂长影视｜追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
     {
        "key": "探探",
        "name": "影探┃4K
@@ -98,16 +97,15 @@
         "ext": "vip.lyyytv.cn"
     },
     {
-                    "key": "js_czsapp",
-                                "name": "🏭️┃厂长┃资源",
-                                            "type": 3,
-                                                        "api": "./js/apiv15drpy2.js",
-                                                                    "searchable": 1,
-                                                                                "quickSearch": 1,
-                                                                                            "filterabljs: 1,
-                                                                                                        "ext": "./js/czspp.js"
+      "key": "js_czsapp",
+      "name": "🏭️┃厂长┃资源",
+      "type": 3,
+      "api": "./js/apiv15drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterabljs: 1,
+       "ext": "./js/czspp.js"
     },
-    
     {
       "key": "csp_007",
       "name": "凌漆|追剧",
