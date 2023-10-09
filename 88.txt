@@ -34,7 +34,7 @@
             "key": "js_czsapp",
             "name": "🏭️┃厂长┃资源",
             "type": 3,
-            "api": "https://download.kstore.space/download/4513/drpy2.js",
+            "api": "https://jihulab.com/tvbox8775937/99/-/raw/main/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
