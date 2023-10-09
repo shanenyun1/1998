@@ -31,6 +31,16 @@
                                                                       }
       },
       {
+            "key": "js_czsapp",
+            "name": "🏭️┃厂长┃资源",
+            "type": 3,
+            "api": "./lib/apiv15drpy2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/czspp.js"
+        },
+      {
                       "key": "csp_AppMr",
                                   "name": "👻┃明明┃影视",
                                               "type": 3,
