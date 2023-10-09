@@ -34,7 +34,7 @@
             "key": "js_czsapp",
             "name": "🏭️┃厂长┃资源",
             "type": 3,
-            "api": "https://gitee.com/shanenyun/88/raw/main/drpy2.min.js",
+            "api": "https://gitea.com/shanenyun1/99/raw/branch/main/drpy2.min%20%281%29.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -53,7 +53,7 @@
       "key":"drpy_js",
       "name":"打开┃影视",
       "type":3,
-      "api":"https://gitee.com/shanenyun/88/raw/main/drpy2.min.js",
+      "api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js",
       "ext":"./js/奇优影院.js"
     },
     {
