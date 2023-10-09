@@ -34,7 +34,7 @@
             "key": "js_czsapp",
             "name": "🏭️┃厂长┃资源",
             "type": 3,
-            "api": "https://download.kstore.space/download/4513/cz.js",
+            "api": "https://gitee.com/shanenyun/88/raw/main/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
