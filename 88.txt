@@ -33,6 +33,22 @@
       "changeable": 1,
       "ext": "http://www.aueteys.com/"
     },
+        {
+      "key": "js_czsapp",
+      "name": "┃厂长┃资源",
+      "type": 3,
+      "api": "./js/apiv15drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+          {
+      "key": "js_czsapp",
+      "name": "🏭️┃厂长┃资源",
+      "type": 3,
+      "api": "./js/apiv15drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,      
+       "ext": "./js/czspp.js"
+    },
     {
                     "key": "七夜",
                                 "name": "😾七夜┃搜索",
