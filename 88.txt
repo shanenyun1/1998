@@ -40,7 +40,6 @@
                                                                                               "filterable": 1
       },
       {
-      
             "key": "js_czsapp",
             "name": "🏭️┃厂长┃资源",
             "type": 3,
@@ -48,8 +47,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/czspp.js"
-        },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
+        },		
      {
       "key":"drpy_js",
       "name":"打开┃影视",
