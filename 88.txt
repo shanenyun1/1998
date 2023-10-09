@@ -30,16 +30,16 @@
                                                                                                                                                                                           "分类url": "https://v.wuxivlog.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
                                                                       }
       },
-      {
+      
             "key": "js_czsapp",
             "name": "🏭️┃厂长┃资源",
             "type": 3,
-            "api": "./js/apiv15drpy2.js",
+            "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/czspp.js"
-        },
+            "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
+        },		
       {
                       "key": "csp_AppMr",
                                   "name": "👻┃明明┃影视",
