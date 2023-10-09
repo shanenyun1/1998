@@ -116,7 +116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/007影视.json"
+      "ext": "./007影视.json"
     },
      {
      "key": "csp_Bttoo",
