@@ -59,7 +59,18 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/czspp.js"
-        },		
+        },
+        {
+                        "key": "世界",
+                                    "name": "世界┃APP",
+                                                "type": 3,
+                                                            "api": "./js/drpy2.min.js",
+                                                                        "searchable": 1,
+                                                                                    "quickSearch": 1,
+                                                                                                "filterable": 1,
+                                                                                                            "ext": "./js/sj.js"
+        },
+        	
      {
       "key":"drpy_js",
       "name":"打开┃影视",
