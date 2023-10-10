@@ -70,6 +70,24 @@
                                                                                                 "filterable": 1,
                                                                                                             "ext": "./js/sj.js"
         },
+                {
+                                "key": "快速",
+                                            "name": "🏭快速┃XB",
+                                                        "type": 3,
+                                                                    "api": "csp_XBPQ",
+                                                                                "ext": {
+                                                                                                    //host:'https://www.czzy.site',
+                                                                                                                    "线路数组":"<div class=\"mi_paly_box\">&&</div>",
+                                                                                                                                    "线路标题":"<span>&&</span>[替换:在线观看>>厂长资源]",
+                                                                                                                                                    "播放数组":"<div class=\"paly_list_btn\">&&</div>",
+                                                                                                                                                                    "播放列表":"<a&&/a>",
+                                                                                                                                                                                    "分类":"站长推荐&电影&电视剧&动画&国产剧&日剧&韩剧&美剧&海外剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&欧美电影&法国电影&英国电影&韩国电影",
+                                                                                                                                                                                                    "分类值":"zhanchangtuijian&dyy&dianshiju&dohua&guochanju&rj&hj&mj&hwj&eluosidianying&jianadadianying&huayudianying&yindudianying&ribendianying&meiguodianying&faguodianying&yingguodianying&hanguodianying",
+                                                                                                                                                                                                                    "分类url":"https://www.cz0101.com/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg};;a"
+                                                                                }
+                },
+                                                                                }
+            
            {
                            "key": "csp_XBPQ_JOJO",
                                        "name": "JOJO",
