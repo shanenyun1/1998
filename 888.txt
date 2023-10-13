@@ -16,12 +16,12 @@
 
   "sites": [
       {
-                      "key": "蜗牛弹幕",
-                                  "name": "🐌┃蜗牛┃影视",
-                                              "type": 3,
-                                                          "api": "csp_XBPQ",
-                                                                      "ext": {
-                                                                                          "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+       "key": "蜗牛弹幕",
+        "name": "🐌┃蜗牛┃影视",
+        "type": 3,
+       "api": "csp_XBPQ",
+          "ext": {
+       "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
                                                                                                           "数组": "class=\"module-item-text\"&&class=\"loading\"",
                                                                                                                           "线路数组": "data-dropdown-value=&&</div>",
                                                                                                                                           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
@@ -39,13 +39,7 @@
                                                                                   "quickSearch": 1,
                                                                                               "filterable": 1
       },                                                        
-     {
-      "key":"drpy_js",
-      "name":"打开┃影视",
-      "type":3,
-      "api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js",
-      "ext":"./js/奇优影院.js"
-    },
+
     {
      "key": "Auete",
      "name": "奥特┃直连",
@@ -66,13 +60,7 @@
                                                                                             "changeable": 0,
                                                                                                         "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
     },
-    {
-            "key": "drpy_js_荐片",
-            "name": "荐片 | 影视[js]",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/荐片.js"
-    },
+
     {
      "key": "Mino",
      "name": "Mino┃4K资源",
@@ -97,16 +85,7 @@
         "ext": "vip.lyyytv.cn"
     },
 
-    {
-      "key": "csp_007",
-      "name": "凌漆|追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/007影视.json"
-    },
+
      {
      "key": "csp_Bttoo",
       "name": "比特┃直连",
@@ -135,88 +114,15 @@
       "filterable": 0,
        "ext": "http://rzys.xyz"
     },
-    {
-      "key": "csp_Nmys",
-      "name": "农民┃直连",
-      "type": 3,
-       "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-     "changeable": 1,
-     "ext": "./js/nmys.json"
-    },
+
 
     
-    {
-      "key": "csp_乐猪",
-      "name": "乐猪影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/乐猪影视.json"
-    },
-    {
-      "key": "csp_农民",
-      "name": "农民影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/农民影视.json"
-    },
-    {
-      "key": "csp_花猫",
-      "name": "花猫影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/花猫影视.json"
-    },
-    {
-      "key": "csp_亿视",
-      "name": "亿视影院|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/亿视影院.json"
-    },
-    {
-      "key": "csp_七月",
-      "name": "七月影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/七月影视.json"
-    },
-    {
-      "key": "csp_日后",
-      "name": "日后影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/348影视.json"
-    },
-    {
-      "key": "csp_圣城",
-      "name": "圣城|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/圣城影视.json"
-    },
+
+
+
+
+
+
     {
       "key": "csp_奥特",
       "name": "奥特影视|T追剧",
